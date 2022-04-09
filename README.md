@@ -12,7 +12,7 @@ Derived from these predictions we can then make different assumptions: Where do 
 
 <div align="center">
 
-![image info](./runs/train/fish_no_test_data/val_batch2_labels.jpg)
+![image info](./val_batch2_labels.jpg)
 </div>
 
 
